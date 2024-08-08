@@ -36,7 +36,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Seu grupo foi contra a doação de órgãos.",
-                afirmacao: "Independentemente de seu posicionamento, você teve bons argumentos e foi bem no debate."
+                afirmacao: "Independentemente de seu posicionamento, você teve bons argumentos e foi bem no debate,"
             },
             {
                 texto: "Seu grupo foi a favor da doação de órgãos.",
